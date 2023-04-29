@@ -7,6 +7,12 @@
 
 **Click on the links below to view the repository of the project**
 
+# [(FINANCIAL MODELLING ML) *Ongoing* S&P 500 Stock Reccomendation Project](https://github.com/Shrsht/LSTM-Google-Stock-Prediction)
+This is an ongoing project as part of the UCSD Data Science Student Society(DS3) Projects Committee 2023. This project began with a dataset of historical  S&P 500 data and even though the original goal was to develop a stock reccomendatoin system - i.e use AI and ML techniques to predict the stock movement of a given stock. Given this background, we appraoched it in 2 ways:
+* Financial Modelling
+* Scraping Twitter API for stock information - Sentiment Analysis of tweets as a prediction Feature
+* Modern Portfolio Theory
+
 # [(NLP) Sentiment Analysis of IMDB Reviews](https://github.com/Shrsht/IMDB_Sentiment_Analysis)
 In our exploration, we make use of this data set to develop a Sentiment Analysis Model that predicts whether a given review has a 'positive' or 'negative' rating. We make use of 3 Probabalistic Machine Learning Models - Naive Bayes, Multivariate Bayes and Bernoulli Naive Bayes. We also make use of the VADER Sentiment Analysis corpus in our model.  
 
