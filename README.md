@@ -6,7 +6,7 @@
 
 **Click on the links below to view the repository of the project**
 
-# [CALCULATING AND GRAPHING THE EFFICIENT FRONTIER OF A GIVEN STOCK PORTFOLIO]
+# [CALCULATING AND GRAPHING THE EFFICIENT FRONTIER OF A GIVEN STOCK PORTFOLIO](https://github.com/Shrsht/Graphing-Efficient-Frontier)
 ## **(ML,FINANCIAL MODELLING,PORTFOLIO THEORY)**
 
 
