@@ -8,6 +8,9 @@
 
 # [CALCULATING AND GRAPHING THE EFFICIENT FRONTIER OF A GIVEN STOCK PORTFOLIO](https://github.com/Shrsht/Graphing-Efficient-Frontier)
 ## **(ML,FINANCIAL MODELLING,PORTFOLIO THEORY)**
+Work in Progress. In modern portfolio theory, the efficient frontier (or portfolio frontier) is an investment portfolio which occupies the "efficient" parts of the risk–return spectrum. Formally, it is the set of portfolios which satisfy the condition that no other portfolio exists with a higher expected return but with the same standard deviation of return (i.e., the risk).[1] The efficient frontier was first formulated by Harry Markowitz in 1952;[2] see Markowitz model.
+
+In this project I use an API to obtain stock data on a give portfolio of Stocks (Tesla, Google and Apple) and use thier given closing price to calculate 2 indices - Sharpe Ratio and Portfolio Variance.
 
 
 # [SEC API TO GET COMPANY FINANCIAL REPORTS (10K and 10Q FILINGS)](https://github.com/Shrsht/Parsing-Financial-Statements-with-Python)
