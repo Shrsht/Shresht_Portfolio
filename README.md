@@ -7,21 +7,28 @@
 
 # [S&P 500 STOCK RECOMMENDATION PROJECT](https://github.com/Shrsht/LSTM-Google-Stock-Prediction)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALISATION)*
-**WIP** This is an ongoing project as part of the UCSD *Data Science Student Society(DS3) Projects Committee 2023*. This project began with a dataset of historical S&P 500 data and an original goal of building a stock recommendation system - i.e use AI and ML models to predict the Opening Price movement of a given stock. Given this background, we appraoched this challenge in 2 ways:
-* **Financial Modelling** - Predicted Opening Stock Price of GOOGL Stock usinng- Random Forests, LSTMs, Koopman Neural Networks using Python, TensorFlow and scikit-learn to predict movements in Opening Prices of a given stock.
-* **Scraping Twitter** -  API for stock information - Sentiment Analysis of tweets as a prediction Feature
+**(WIP)** This is an ongoing project as part of the UCSD *Data Science Student Society(DS3) Projects Committee 2023*. This project began with a dataset of historical S&P 500 data and an original goal of building a stock recommendation system - i.e using AI and ML models to predict the Opening Price movement of a given stock. Given this background, we appraoched this challenge in 2 ways:
+
+* **Financial Modelling** - Predicted Opening Stock Price of Google Stocks (GOOGL)  using- Random Forests, LSTMs, Koopman Neural Networks, all implemented in Python with TensorFlow and scikit-learn packages.
+* **Scraping Twitter** -  We used the Twitter API to perform Sentiment Analysis on tweets that referenced a given stock and tried to build a system to analyse whether the Twitter sentiment has an effect on the opening Price of the stock. 
 
 # [PREDICTING POLITICAL PARTY BY STOCK PORTFOLIO](https://github.com/Shrsht/Stock-Trades-by-Members-of-the-US-House-of-Representatives.git)
 ### *(ML, DECISION TREES, RANDOM FOREST CLASSIFIERS,LINEAR ALGEBRA)*
 This Project is an exploration of the 'House Stock Watcher" data set which tracks the stock trading activity of members of the House of Representatives. The dataset contains stock information spanning the period from 2020 to 2022 and was designed to explore the possibility of insider trading among members of Congress. 
-This investigation involves exploring this data set to understand whether the distribution of stock types is different among parties. We also explore the trading habits of the members and the parties as a whole, while trying to answer questions like:
-* Which party does the most trades?
+
+Using a combination of techniques like Decision Trees and Random Forest Classifiers, we attempt to answer questions like:
+* Which party makes the most trades of a given stock?
 * Which congresspersons have made the most trades? 
-* We make use of Random Forest Machine Learning to predict the party (Democrat/ Republican) of a given portfolio of stocks. 
+* Given a stock portfolio, can we predict the Party of the member that owns the portfolio? 
 
 # [STATISTICAL LANGUAGE MODEL OF THE SHAKESPEARE CORPUS](https://github.com/Shrsht/Statistical-Language-Model-of-the-Ramayana)
 ### *(API SCRAPING, STATISTICAL LANGUAGE MODELS, LLMs, NLP)*
-In this project, we build a Statistical Language Model using the public domain corpus of English author William Shakespeare. Statistical Language Models attempt to capture the likelihood that a given sequence of words occur in a given "language" (the precise term is "corpus" or "corpora"). Here, "language" is a broad term that, in addition to the normal usage, may mean the language of a particular author or style. We use the Shakespeare corpus as found on Project Gutenberg for the pupose of this investigation. As with all statistical models, the true data generating process is never known and thus we cannot know the true probability that a sequence of words will occur – however, we can estimate these probabilities via various methods, some of which are more reliable than others. For example, one might guess that the probability of a sentence is simply the product of the empirical probabilities (i.e., the number of times a word is observed in a dataset divided by the number of words in that dataset). This is one of the methods of estimating the probability of a sequence of words that we implement in this project.
+In this project, we build a Statistical Language Model using the public domain corpus of the English author, William Shakespeare.
+
+Statistical Language Models (SLMs) attempt to capture the likelihood that a given sequence of words occur in a given "language" (the precise term is "corpus" or "corpora"). 
+We use the Shakespeare corpus as found on Project Gutenberg for the pupose of this investigation. 
+
+**As with all statistical models, the true data generating process is never known and thus we cannot know the true probability that a sequence of words will occur – however, we can estimate these probabilities via various methods, some of which are more reliable than others. For example, one might guess that the probability of a sentence is simply the product of the empirical probabilities (i.e., the number of times a word is observed in a dataset divided by the number of words in that dataset). This is one of the methods of estimating the probability of a sequence of words that we implement in this project.**
 
 # [CALCULATING AND GRAPHING THE EFFICIENT FRONTIER OF A GIVEN STOCK PORTFOLIO](https://github.com/Shrsht/Graphing-Efficient-Frontier)
 ### *(ML,FINANCIAL MODELLING,PORTFOLIO THEORY)*
