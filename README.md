@@ -7,7 +7,7 @@
 
 # [S&P 500 STOCK RECOMMENDATION PROJECT](https://github.com/Shrsht/LSTM-Google-Stock-Prediction)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALISATION)*
-**WIP** This is an ongoing project as part of the UCSD **Data Science Student Society(DS3) Projects Committee 2023**. This project began with a dataset of historical S&P 500 data and an original goal of being to develop a stock recommendation system - i.e use AI and ML models to predict the Opening price movement of a given stock. Given this background, we appraoched this challenge in 2 ways:
+**WIP** This is an ongoing project as part of the UCSD **Data Science Student Society(DS3) Projects Committee 2023**. This project began with a dataset of historical S&P 500 data and an original goal of building a stock recommendation system - i.e use AI and ML models to predict the Opening Price movement of a given stock. Given this background, we appraoched this challenge in 2 ways:
 * **Financial Modelling** - Predicted Opening Stock Price of GOOGL Stock usinng- Random Forests, LSTMs, Koopman Neural Networks using Python, TensorFlow and scikit-learn to predict movements in Opening Prices of a given stock.
 * **Scraping Twitter** -  API for stock information - Sentiment Analysis of tweets as a prediction Feature
 
