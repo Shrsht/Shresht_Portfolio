@@ -11,12 +11,20 @@
 ­	Created a debt-composition heat map breaking-down Indonesia’s debt profile, gross financing needs and annual changes in public sector debt.
 ­	Developed in 3 days for personal research interests through reverse-engineering of publicly available
 
+<img width="1068" alt="Screenshot 2023-06-15 at 8 20 45 AM" src="https://github.com/Shrsht/Shresht_Portfolio/assets/102553723/be2c9bc5-ef86-4d87-a6d1-8fbbe36dc452">
+
+
 # [S&P 500 STOCK RECOMMENDATION PROJECT](https://github.com/Shrsht/LSTM-Google-Stock-Prediction)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALISATION)*
 **(WIP)** This is an ongoing project as part of the UCSD *Data Science Student Society(DS3) Projects Committee 2023*. This project began with a dataset of historical S&P 500 data and an original goal of building a stock recommendation system - i.e using AI and ML models to predict the Opening Price movement of a given stock. Given this background, we appraoched this challenge in 2 ways:
 
 * **Financial Modelling** - Predicted Opening Stock Price of Google Stocks (GOOGL)  using- Random Forests, LSTMs, Koopman Neural Networks, all implemented in Python with TensorFlow and scikit-learn packages.
-* **Scraping Twitter** -  We used the Twitter API to perform Sentiment Analysis on tweets that referenced a given stock and tried to build a system to analyse whether the Twitter sentiment has an effect on the opening Price of the stock. 
+* **Scraping News Websites** -  We used the Twitter API to perform Sentiment Analysis on tweets that referenced a given stock and tried to build a system to analyse whether the Twitter sentiment has an effect on the opening Price of the stock.
+* **Graphing the Efficient Frontier** - ­	Using Modern Portfolio Theory, we calculated and graphed the Efficient Portfolio Frontier by simulating 2500 portfolio combinations and selecting the portfolios that minimized the portfolio risk and maximized the Sharpe Ratio. 
+
+![Project Poster](https://github.com/Shrsht/Shresht_Portfolio/assets/102553723/2b0f22dd-b4fe-4187-9488-47fb3eb113f7)
+
+
 
 # [PREDICTING POLITICAL PARTY BY STOCK PORTFOLIO](https://github.com/Shrsht/Stock-Trades-by-Members-of-the-US-House-of-Representatives.git)
 ### *(ML, DECISION TREES, RANDOM FOREST CLASSIFIERS,LINEAR ALGEBRA)*
@@ -25,7 +33,8 @@ This Project is an exploration of the 'House Stock Watcher" data set which track
 Using a combination of techniques like Decision Trees and Random Forest Classifiers, we attempt to answer questions like:
 * Which party makes the most trades of a given stock?
 * Which congresspersons have made the most trades? 
-* Given a stock portfolio, can we predict the Party of the member that owns the portfolio? 
+* Given a stock portfolio, can we predict the Party of the member that owns the portfolio?
+  
 
 # [STATISTICAL LANGUAGE MODEL OF THE SHAKESPEARE CORPUS](https://github.com/Shrsht/Statistical-Language-Model-of-the-Ramayana)
 ### *(API SCRAPING, STATISTICAL LANGUAGE MODELS, LLMs, NLP)*
