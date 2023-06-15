@@ -5,6 +5,11 @@
 
 **Click on the links below to view the repository of the project**
 
+# [INDONESIA SOVEREIGN DEBT SUSTAINABILITY ANALYSIS]
+­	Researched and built a Debt Sustainability Analysis model for Indonesia from scratch, using publicly available macroeconomic and gross public debt data. Designed and coded accompanying visualizations of Debt-Creating Flows, Public Debt Composition and gross financing needs using Python. Model framework and visualizations closely align with the IMF’s new DAS framework for Lower Scrutiny Market Access countries.
+­	Created a debt-composition heat map breaking-down Indonesia’s debt profile, gross financing needs and annual changes in public sector debt.
+­	Developed in 3 days for personal research interests through reverse-engineering of publicly available
+
 # [S&P 500 STOCK RECOMMENDATION PROJECT](https://github.com/Shrsht/LSTM-Google-Stock-Prediction)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALISATION)*
 **(WIP)** This is an ongoing project as part of the UCSD *Data Science Student Society(DS3) Projects Committee 2023*. This project began with a dataset of historical S&P 500 data and an original goal of building a stock recommendation system - i.e using AI and ML models to predict the Opening Price movement of a given stock. Given this background, we appraoched this challenge in 2 ways:
