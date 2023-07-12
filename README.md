@@ -5,6 +5,15 @@
 
 **Click on the links below to view the repository of the project**
 
+
+# ARGENTINA DEBT DISLOCATION SCENARIOS AND SUSTAINABILITY ANALYSIS
+### [CLICK TO VIEW PROJECT DETAILS](https://github.com/Shrsht/Indonesia-Debt-Sustainability-Analysis)
+This project is an attempt at analysing different scenarios that might lead to Dislocation in Argentina's Sovereign Debt. This analysis takes into account political and climactic factors along with recent updates on Argentina's ongoing IMF program.
+###  Dislocation Scenarios: 
+- Cyclical Droughts and Persistant Climate Change
+- Election Analysis and related Uncertainity
+- Structural Issues and Fiscal Targets
+
 # INDONESIA SOVEREIGN DEBT SUSTAINABILITY ANALYSIS
 ### [CLICK TO VIEW PROJECT DETAILS](https://github.com/Shrsht/Indonesia-Debt-Sustainability-Analysis)
 ### *(FINANCIAL MODELING, VISUALISATION)*
