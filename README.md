@@ -6,24 +6,6 @@
 **Click on the links below to view the repository of the project**
 
 
-# ARGENTINA DEBT DISLOCATION SCENARIOS AND SUSTAINABILITY ANALYSIS
-### [CLICK TO VIEW PROJECT DETAILS](https://github.com/Shrsht/Argentina_Debt_Sustainability/blob/main/README.md)
-This project is an attempt at analysing different scenarios that might lead to Dislocation in Argentina's Sovereign Debt. This analysis takes into account political and climactic factors along with recent updates on Argentina's ongoing IMF program.
-###  Dislocation Scenarios: 
-- Cyclical Droughts and Persistant Climate Change
-- Election Analysis and related Uncertainity
-- Structural Issues and Fiscal Targets
-
-# INDONESIA SOVEREIGN DEBT SUSTAINABILITY ANALYSIS
-### [CLICK TO VIEW PROJECT DETAILS](https://github.com/Shrsht/Indonesia-Debt-Sustainability-Analysis)
-### *(FINANCIAL MODELING, VISUALISATION)*
-­	Researched and built a Debt Sustainability Analysis model for Indonesia from scratch, using publicly available macroeconomic and gross public debt data. Designed and coded accompanying visualizations of Debt-Creating Flows, Public Debt Composition and gross financing needs using Python. Model framework and visualizations closely align with the IMF’s new DAS framework for Lower Scrutiny Market Access countries.
-­	Created a debt-composition heat map breaking-down Indonesia’s debt profile, gross financing needs and annual changes in public sector debt.
-­	Developed in 3 days for personal research interests through reverse-engineering of publicly available
-
-<img width="1068" alt="Screenshot 2023-06-15 at 8 20 45 AM" src="https://github.com/Shrsht/Shresht_Portfolio/assets/102553723/be2c9bc5-ef86-4d87-a6d1-8fbbe36dc452">
-
-
 # S&P 500 STOCK RECOMMENDATION PROJECT
 ### [CLICK TO VIEW PROJECT DETAILS](https://github.com/Shrsht/LSTM-Google-Stock-Prediction)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELING, VISUALISATION)*
@@ -57,6 +39,16 @@ Statistical Language Models (SLMs) attempt to capture the likelihood that a give
 We use the Shakespeare corpus as found on Project Gutenberg for the pupose of this investigation. 
 
 **As with all statistical models, the true data generating process is never known and thus we cannot know the true probability that a sequence of words will occur – however, we can estimate these probabilities via various methods, some of which are more reliable than others. For example, one might guess that the probability of a sentence is simply the product of the empirical probabilities (i.e., the number of times a word is observed in a dataset divided by the number of words in that dataset). This is one of the methods of estimating the probability of a sequence of words that we implement in this project.**
+
+
+# INDONESIA SOVEREIGN DEBT SUSTAINABILITY ANALYSIS
+### [CLICK TO VIEW PROJECT DETAILS](https://github.com/Shrsht/Indonesia-Debt-Sustainability-Analysis)
+### *(FINANCIAL MODELING, VISUALISATION)*
+­	Researched and built a Debt Sustainability Analysis model for Indonesia from scratch, using publicly available macroeconomic and gross public debt data. Designed and coded accompanying visualizations of Debt-Creating Flows, Public Debt Composition and gross financing needs using Python. Model framework and visualizations closely align with the IMF’s new DAS framework for Lower Scrutiny Market Access countries.
+­	Created a debt-composition heat map breaking-down Indonesia’s debt profile, gross financing needs and annual changes in public sector debt.
+­	Developed in 3 days for personal research interests through reverse-engineering of publicly available
+
+<img width="1068" alt="Screenshot 2023-06-15 at 8 20 45 AM" src="https://github.com/Shrsht/Shresht_Portfolio/assets/102553723/be2c9bc5-ef86-4d87-a6d1-8fbbe36dc452">
 
 # [CALCULATING AND GRAPHING THE EFFICIENT FRONTIER OF A GIVEN STOCK PORTFOLIO]
 ### [CLICK TO VIEW PROJECT DETAILS](https://github.com/Shrsht/Graphing-Efficient-Frontier)
