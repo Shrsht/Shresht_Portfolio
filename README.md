@@ -29,7 +29,7 @@ Using a combination of techniques like Decision Trees and Random Forest Classifi
 ![Project Poster](https://github.com/Shrsht/Shresht_Portfolio/assets/102553723/2b0f22dd-b4fe-4187-9488-47fb3eb113f7)
 
 
-# INDONESIA SOVEREIGN DEBT SUSTAINABILITY ANALYSIS
+## INDONESIA SOVEREIGN DEBT SUSTAINABILITY ANALYSIS
 ### [CLICK TO VIEW PROJECT DETAILS](https://github.com/Shrsht/Indonesia-Debt-Sustainability-Analysis)
 ### *(FINANCIAL MODELING, VISUALISATION)*
 ­	Researched and built a Debt Sustainability Analysis model for Indonesia from scratch, using publicly available macroeconomic and gross public debt data. Designed and coded accompanying visualizations of Debt-Creating Flows, Public Debt Composition and gross financing needs using Python. Model framework and visualizations closely align with the IMF’s new DAS framework for Lower Scrutiny Market Access countries.
